@@ -1,7 +1,6 @@
-# asl-detection
-American Sign Language Detection
+# American Sign Language Detection
 
-What I learnt?
+## What I learnt?
 - Reading images and labels
 - Image pre-processing and data augmentation
 - Feature learning using Restricted Boltzmann Machine
